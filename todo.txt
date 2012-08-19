@@ -10,8 +10,38 @@
 
 //-------------------------------------------------------------
 // requests
-
 somebody take the requests from the bot events II suggestions and request thread and put them here thanks
+
+FROM HeedicalKing:
+
+Slayer support would be neat. Having team bots that are able to stand on and capture the capture points.
+A GUI that allows you to pick bot uniforms, or an event that sets them to a slayer team's uniform.
+Bot inventory where they can hold multiple items with events to pick which slot to use, or a free to use AI option.
+Bots can use vehicle turrets.
+setbottransform (is this already done?)
+VCE modify bots (is this already done?)
+Bots can open doors  (is this already done?)
+Bump. if this is ever made. (directional events http://forum.blockland.us/index.php?topic=204333.0) should be included. 
+maybe have an advanced option to set a degree of rotation as well.
+
+FROM Legodude77:
+
+setbotspeed maybe so that we don't have to have custom playertypes?
+
+FROM Mysteroo:
+
+If bot events are redone, I'd like it so that the events and such at least have the same names, or whatever it is 
+that needs to be done so that if I loaded a build with the old bot events on it, I wouldn't have to completely
+re-event the build.
+
+FROM Fob:
+
+don't let it break down in dedicated servers please, bot events is essential for a good rpg server :(
+
+FROM Counter98:
+
+YES! GUI'S!
+I'm tired of running out of event space just to make my guy look like a soldier
 
 //-------------------------------------------------------------
 // ideas
