@@ -1,0 +1,5 @@
+TODO LIST BECAUSE IDK:
+
+[0] Analyze existing Event_Bots code to find parts that -
+- Need to be done better
+- Can be reused
