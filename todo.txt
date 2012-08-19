@@ -1,5 +1,17 @@
-TODO LIST BECAUSE IDK:
+//-------------------------------------------------------------
+//TODO LIST BECAUSE IDK:
 
 [0] Analyze existing Event_Bots code to find parts that -
 - Need to be done better
 - Can be reused
+
+//-------------------------------------------------------------
+// requests
+
+somebody take the requests from the bot events II suggestions and request thread and put them here thanks
+
+//-------------------------------------------------------------
+// ideas
+
+[0] remote debug reporting - we setup some kind of a system with a bot on it, maybe irc (yes im looking at you elm) and then we can have the betas push reports out to us because people will undoubtedly not send reports back to us
+screw them
